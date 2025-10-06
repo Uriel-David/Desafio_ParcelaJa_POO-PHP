@@ -1,0 +1,16 @@
+{
+    "name": "uriel/desafio_parcela-ja_poo-php",
+    "description": "The aim is to explore your OOP skills in PHP by creating 3 classes.",
+    "autoload": {
+        "psr-4": {
+            "src\\classes\\": "src/classes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Uriel-David",
+            "email": "uriel.dqaa@gmail.com"
+        }
+    ],
+    "require": {}
+}
